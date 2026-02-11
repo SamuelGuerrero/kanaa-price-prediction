@@ -102,21 +102,21 @@ Below are the **actual vs. predicted** plots from each phase so readers can see 
   <tr>
     <td align="center">
       <strong>01 Training (Baseline)</strong><br/>
-      <img src="docs/images/01_training_cell24_out0.png" alt="Actual vs Prediction - Training" width="600"/>
+      <img src="assets/plots/01_training_cell24_out0.png" alt="Actual vs Prediction - Training" width="600"/>
     </td>
     <td align="center">
       <strong>02 Model Selection (Initial XGBoost)</strong><br/>
-      <img src="docs/images/02_model_selection_cell14_out0.png" alt="Actual vs Prediction - Model Selection" width="600"/>
+      <img src="assets/plots/02_model_selection_cell14_out0.png" alt="Actual vs Prediction - Model Selection" width="600"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>03 Hyperparameter Tuning (Best Model)</strong><br/>
-      <img src="docs/images/03_hyperparameter_tuning_cell15_out0.png" alt="Actual vs Prediction - Tuning" width="600"/>
+      <img src="assets/plots/03_hyperparameter_tuning_cell15_out0.png" alt="Actual vs Prediction - Tuning" width="600"/>
     </td>
     <td align="center">
       <strong>04 K-Fold Evaluation (Final)</strong><br/>
-      <img src="docs/images/04_kfold_evaluation_cell28_out0.png" alt="Actual vs Prediction - K-Fold" width="600"/>
+      <img src="assets/plots/04_kfold_evaluation_cell28_out0.png" alt="Actual vs Prediction - K-Fold" width="600"/>
     </td>
   </tr>
 </table>
